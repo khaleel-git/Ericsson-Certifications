@@ -4,42 +4,31 @@ Welcome to my repository showcasing my Ericsson certifications. Here, you'll fin
 
 ## Certifications
 
-### 1. [Certification Name 1](#)
+### 1. [Automation 101](https://github.com/khaleel-git/Ericsson-Certifications/blob/master/Trainings/Automation-101.pdf)
 - **Issued by:** Ericsson
-- **Date Earned:** Month Year
-- **Description:** Brief description of the certification and its relevance.
+- **Date Earned:** 2023-02-10
 
-### 2. [Certification Name 2](#)
+### 2. [Data Science Overview](https://github.com/khaleel-git/Ericsson-Certifications/blob/master/Trainings/Data-Science-Overview.pdf)
 - **Issued by:** Ericsson
-- **Date Earned:** Month Year
-- **Description:** Brief description of the certification and its relevance.
+- **Date Earned:** 2023-02-10
 
-## How to Verify
+### 2. [Introduction to Artificial Intelligence](https://github.com/khaleel-git/Ericsson-Certifications/blob/master/Trainings/Introduction-to-Artificial_Intelligence.pdf)
+- **Issued by:** Ericsson
+- **Date Earned:** 2023-02-10
 
-Each certification folder contains the necessary details and certificates for verification. Feel free to explore the individual certification folders for more information.
-
-## Repository Structure
-
-- **Certification-1/**
-  - [Certification-1.pdf](Certification-1/Certification-1.pdf)
-  - Additional files or documentation, if any.
-
-- **Certification-2/**
-  - [Certification-2.pdf](Certification-2/Certification-2.pdf)
-  - Additional files or documentation, if any.
+### 2. [Introduction to Machine Learning](https://github.com/khaleel-git/Ericsson-Certifications/blob/master/Trainings/Introduction-to-Machine-Learning.pdf)
+- **Issued by:** Ericsson
+- **Date Earned:** 2023-02-10
 
 ## About Me
 
-Brief information about yourself, your professional background, and interests.
+Passionate about optimizing infrastructure and streamlining operations. Skilled in Linux Server Administration, Site Reliability Engineering, and cloud-native technologies i.e. Kubernetes and ArgoCD. Proficient in Python, with a track record of automating tasks and fostering innovation. Let's connect and explore opportunities for collaboration.
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](#)
-- Twitter: [@YourTwitterHandle](#)
-- Personal Website: [Your Website](#)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khaleel-ahmad/)
+- Twitter: [@oo_khaleel](https://twitter.com/oo_khaleel)
+- Personal Website: [Khaleel.Work](https://khaleel.work/)
 
 Feel free to reach out if you have any questions or would like to connect!
-
----
-
-**Note:** Replace the placeholder text (such as "Certification Name," "Month Year," etc.) with your actual information. Add or remove sections based on your preferences and the information you want to convey.
+Email: khaleel.org@gmail.com, khalil.a.ahmed@ericsson.com, +923076482365
