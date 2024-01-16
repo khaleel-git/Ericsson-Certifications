@@ -26,7 +26,7 @@ Passionate about optimizing infrastructure and streamlining operations. Skilled 
 
 ## Connect with Me
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khaleel-ahmad/)
+- LinkedIn: [Linkedin](https://www.linkedin.com/in/khaleel-ahmad/)
 - Twitter: [@oo_khaleel](https://twitter.com/oo_khaleel)
 - Personal Website: [Khaleel.Work](https://khaleel.work/)
 
